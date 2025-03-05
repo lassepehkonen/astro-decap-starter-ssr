@@ -1,9 +1,9 @@
 backend:
   name: github
   branch: update
-  repo: username/repo
-  site_domain: example.com
-  base_url: https://example.com/
+  repo: astro-decap-demo
+  site_domain: omasivu.fi
+  base_url: http://localhost:4321/
   auth_endpoint: oauth
 
 media_folder: src/assets/img
